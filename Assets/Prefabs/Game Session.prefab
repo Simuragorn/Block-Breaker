@@ -44,10 +44,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78c3db0ccf72dac4399a685baf3283dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameSpeed: 0.54
+  gameSpeed: 0.6
   pointsPerBlock: 10
   currentScore: 0
   textMeshProUGUI: {fileID: 426503946273382811}
+  isAutoPlayEnabled: 0
 --- !u!1001 &426503946904822736
 PrefabInstance:
   m_ObjectHideFlags: 0
